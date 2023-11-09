@@ -1,0 +1,14 @@
+C:\Users\Nyekruh\source\repos\BookProjectHw\BookProjectHw\obj\Debug\net6.0\BookProjectHw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nyekruh\source\repos\BookProjectHw\BookProjectHw\obj\Debug\net6.0\BookProjectHw.AssemblyInfoInputs.cache
+C:\Users\Nyekruh\source\repos\BookProjectHw\BookProjectHw\obj\Debug\net6.0\BookProjectHw.AssemblyInfo.cs
+C:\Users\Nyekruh\source\repos\BookProjectHw\BookProjectHw\obj\Debug\net6.0\BookProjectHw.csproj.CoreCompileInputs.cache
+C:\Users\Nyekruh\source\repos\BookProjectHw\BookProjectHw\bin\Debug\net6.0\BookProjectHw.exe
+C:\Users\Nyekruh\source\repos\BookProjectHw\BookProjectHw\bin\Debug\net6.0\BookProjectHw.deps.json
+C:\Users\Nyekruh\source\repos\BookProjectHw\BookProjectHw\bin\Debug\net6.0\BookProjectHw.runtimeconfig.json
+C:\Users\Nyekruh\source\repos\BookProjectHw\BookProjectHw\bin\Debug\net6.0\BookProjectHw.dll
+C:\Users\Nyekruh\source\repos\BookProjectHw\BookProjectHw\bin\Debug\net6.0\BookProjectHw.pdb
+C:\Users\Nyekruh\source\repos\BookProjectHw\BookProjectHw\obj\Debug\net6.0\BookProjectHw.dll
+C:\Users\Nyekruh\source\repos\BookProjectHw\BookProjectHw\obj\Debug\net6.0\refint\BookProjectHw.dll
+C:\Users\Nyekruh\source\repos\BookProjectHw\BookProjectHw\obj\Debug\net6.0\BookProjectHw.pdb
+C:\Users\Nyekruh\source\repos\BookProjectHw\BookProjectHw\obj\Debug\net6.0\BookProjectHw.genruntimeconfig.cache
+C:\Users\Nyekruh\source\repos\BookProjectHw\BookProjectHw\obj\Debug\net6.0\ref\BookProjectHw.dll
